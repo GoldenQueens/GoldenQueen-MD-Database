@@ -1,6 +1,6 @@
 {
-  "alive": "🥰🥰🥰🥰",
-  "update": "👈👈👈👈8👈8",
+  "alive": " ",
+  "update": "coming soon....",
   "menu": "hy\nmy\n\nhi",
  "previewlink": "https://whatsapp.com/channel/0029Vaw0NYoAInPkQUJJZK1t",
     "vimanumber":"94776734030",
