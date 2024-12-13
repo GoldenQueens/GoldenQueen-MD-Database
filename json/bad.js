@@ -1,0 +1,1 @@
+{"fuc","huk","hut","ponn","pinn","paca","හුක","හුත්","අම්ම","අබිසාරි","Wutt","Wuka","වේසි","wesi","vesi","පුක","puk","කිම්බ","ammata","කැරි","pak","අවජාත","awaja","avaja","ammata","ponyo","පක","pky","පොන්න","පග","kari","Htto","Hkpn","Utto","න්නයා","වජාතයා","වේස","නගින්නෑ"}
