@@ -60,7 +60,7 @@
   "panda_statas", 
   "justasecond_army", 
   "tharuzz_official"
-];
+]
 
 
 
