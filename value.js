@@ -58,7 +58,19 @@
   "saiman", 
   "panda_statas", 
   "justasecond_army", 
-  "tharuzz_official"
+  "tharuzz_official",
+"Dance video sri lanka",
+"Funny video",
+"Motivation video",
+"Motivation video sinhala",
+"Love story",
+"Rimix song",
+"Drop music video",
+"Slowed Reverb song",
+"Dj song music",
+"Mashup",
+"Chill Remix bass",
+"CM Beats"
 ]
 
 
