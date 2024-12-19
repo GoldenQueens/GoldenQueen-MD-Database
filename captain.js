@@ -8,5 +8,5 @@
     "rockynumber":"94771665143",
     "deploymessageowners":"*Hey Owners 🧚*\n*I deployed Golden Queen MD 🥳*",
     "zipmegalink" : "  ",
-    "developerNumber" : "94762983012,94776734030,94777839446"
+    "developerNumber" : "94762983012,94776734030,94777839446,94771665143,94714659420"
 }
