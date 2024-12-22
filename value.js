@@ -93,15 +93,7 @@
   "work", "office", "career", "job", "resume", "interview", "successStory", "motivation", "publicSpeaking", "leadership",
   "DIYProject", "homeDecor", "furniture", "design", "architecture", "minimalist", "luxury", "interior", "organization", "cleaning",
   "wedding", "engagement", "proposal", "rings", "ceremony", "honeymoon", "bride", "groom", "coupleGoals", "romance",
-  "funnyPets", "dogTricks", "catVideos", "puppies", "kittens", "animalLovers", "petCare", "exoticPets", "rescuedAnimals", "animalShelters",
-  "motivationalQuotes", "dailyAffirmations", "selfLove", "mentalHealth", "wellness", "yoga", "meditation", "stressRelief", "happiness", "positivity",
-  "fashionTrends", "streetStyle", "shoppingSpree", "seasonalFashion", "accessories", "shoes", "heels", "sneakers", "bags", "jewelry",
-  "luxuryLifestyle", "vacation", "resorts", "roadTrip", "backpacking", "cityTours", "localCulture", "cuisine", "heritage", "festival",
-  "camping", "hiking", "trekking", "snowboarding", "skiing", "surfing", "kayaking", "rafting", "mountaineering", "scubaDiving",
-  "boxing", "martialArts", "karate", "gymnastics", "youthSports", "cycling", "skateboarding", "rollerblading", "fishing", "hunting",
-  "storytelling", "scriptWriting", "screenplay", "bookReviews", "authorTalks", "literature", "bookClubs", "readingGoals", "libraries", "ebooks",
-  "healthTips", "dietPlans", "superfoods", "nutrition", "organicFood", "vegan", "paleo", "keto", "intermittentFasting", "calorieCounting",
-  "lifeHacks", "moneySaving", "budgeting", "retirement", "debtFree", "creditScore", "scholarships", "collegeSavings", "jobSearch", "careerGrowth"
+  "funnyPets", "dogTricks", "catVideos", "puppies"
 ],
 
 
