@@ -78,17 +78,7 @@
   "mountains", "prank", "reaction", "magic", "hack", "tips", "trick", "DIY", "craft", "education",
   "science", "technology", "skincare", "hair", "hairstyle", "recipe", "cooking", "baking", "healthy", "motivation",
   "love", "relationship", "family", "kids", "baby", "school", "college", "party", "birthday", "holiday",
-  "Christmas", "Easter", "Halloween", "Valentine", "newYear", "shopping", "haul", "unboxing", "review", "storytime",
-  "anime", "manga", "cosplay", "superhero", "villain", "movie", "tvShow", "actor", "actress", "celebrity",
-  "fun", "laugh", "memes", "inspiration", "success", "money", "finance", "investment", "crypto", "stocks",
-  "cars", "bike", "adventure", "explore", "culture", "history", "book", "poetry", "writing", "quotes",
-  "football", "cricket", "basketball", "tennis", "sports",  "app", "gadget", "robotics", "AI", "machineLearning", "innovation",
-  "scienceExperiment", "chemistry", "physics", "biology", "astronomy", "space", "earth", "environment", "climate", "sustainability",
-  "plants", "gardening", "flowers", "animals", "wildlife", "zoo", "safari", "ocean", "fish", "aquarium",
-  "coffee", "tea", "dessert", "snacks", "pizza", "burger", "pasta", "chocolate", "iceCream", "drinks",
-  "work", "office", "career", "job", "resume", "interview", "successStory", "motivation", "publicSpeaking", "leadership",
-  "DIYProject", "homeDecor", "furniture", "design", "architecture", "minimalist", "luxury", "interior", "organization", "cleaning",
-  "wedding", "engagement", "proposal", "rings", "ceremony", "honeymoon", "bride", "groom", "coupleGoals", "romance",
+  "Christmas", "Easter", "Halloween", "Valentine",  "romance",
   "funnyPets", "dogTricks", "catVideos", "puppies"
 ],
 
