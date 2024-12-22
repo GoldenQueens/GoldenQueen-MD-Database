@@ -71,6 +71,7 @@
 "Mashup",
 "Chill Remix bass",
 "CM Beats",
+"Free Fire", "slow beat song", "yuki nawarathne",""
 "dance", "funny", "challenge", "trend", "lipSync", "cute", "comedy", "food", "travel", "makeup",
   "beauty", "fashion", "lifestyle", "fitness", "workout", "tutorial", "gaming", "art", "drawing", "painting",
   "music", "song", "cover", "instrumental", "pet", "dog", "cat", "nature", "beach", "sunset",
