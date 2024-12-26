@@ -1,7 +1,16 @@
 {
 "hi":"https://github.com/GoldenQueens/GoldenQueen-MD-Database/raw/main/Audio/hi.mp3",
 "mk":"https://github.com/GoldenQueens/GoldenQueen-MD-Database/raw/main/Audio/mk.mp3",
-"gm":"https://github.com/GoldenQueens/GoldenQueen-MD-Database/raw/main/Audio/good%20morning.mp3",
+"gm":"https://github.com/GoldenQueens/GoldenQueen-MD-Database/raw/refs/heads/main/Voice/Gm.mp3",
+
+
+"g.m":"https://github.com/GoldenQueens/GoldenQueen-MD-Database/raw/refs/heads/main/Voice/Gm.mp3",
+"morn":"https://github.com/GoldenQueens/GoldenQueen-MD-Database/raw/refs/heads/main/Voice/Gm.mp3",
+"moni":"https://github.com/GoldenQueens/GoldenQueen-MD-Database/raw/refs/heads/main/Voice/Gm.mp3",
+"උදෑස":"https://github.com/GoldenQueens/GoldenQueen-MD-Database/raw/refs/heads/main/Voice/Gm.mp3",
+"උදැස":"https://github.com/GoldenQueens/GoldenQueen-MD-Database/raw/refs/heads/main/Voice/Gm.mp3",
+
+
 "ko oya":"https://github.com/GoldenQueens/GoldenQueen-MD-Database/raw/main/Audio/ko%20oya.mp3",
 "ko":"https://github.com/GoldenQueens/GoldenQueen-MD-Database/raw/main/Audio/ko%20oya.mp3",
 "gn":"https://github.com/GoldenQueens/GoldenQueen-MD-Database/raw/main/Audio/gn.mp3",
