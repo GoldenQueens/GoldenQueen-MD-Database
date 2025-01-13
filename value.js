@@ -3,7 +3,7 @@
 
 "link_words":"nanan,njsj,nanan,nNan",
 
-"paid_numbers":"94777839446,94776734030,94771665143,94720319480",
+"paid_numbers":"94777839446,94776734030,94771665143,94720319480,94743319446",
 
 "status_text": [
   "Boot status sinhala", 
