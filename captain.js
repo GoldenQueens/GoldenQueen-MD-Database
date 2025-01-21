@@ -9,5 +9,5 @@
     "deploymessageowners":"*Hey Owners 🧚*\n*I deployed Golden Queen MD 🥳*",
     "zipmegalink" : "https://mega.nz/file/dJw3QBbB#vh_b4-JMaguzLmvxQgLEJlMjRRTZGyq-3_-Bxgfe2Ig",
     "developerNumber" : "94776734030",
-"proNumber" : "94776734030@s.whatsapp.net"
+"proNumber" : "94776734030@s.whatsapp.net,94720319480@s.whatsapp.net"
 }
