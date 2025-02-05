@@ -1,6 +1,5 @@
 {
-  "alive": "දැන් ඔබට Golden Queen MD වට්සැප් බොට්ව රු 300ක මුදලකට ලබා ගත හැක (වග කීමක් සහිතව)
-අමතන්න : https://wa.me/94779950690 (Suaranga)",
+  "alive": " ",
  "update": "\n*Golden Queen MD New Update*\n\n` +
     `📌 *Category* - _Search_\n` +
     `➕ *ADDED* \`.ff\` - [Free Fire Account Info]\n` +
