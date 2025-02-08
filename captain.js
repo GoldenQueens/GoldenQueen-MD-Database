@@ -7,7 +7,7 @@
     "dilanumber":"94777839446",
     "rockynumber":"94704104383",
     "deploymessageowners":"*Hey Owners 🧚*\n*I deployed Golden Queen MD 🥳*",
-    "zipmegalink" : "https://mega.nz/file/lwxmnR7C#K5g9AQ",
+    "zipmegalink" : "https://mega.nz/file/JJRyTC5A#wiSsa8CC5ZdFz8dGuVXWE4m61Ad_ABwHQz01TKuEghI",
     "developerNumber" : "94776734030",
 "proNumber" : "94743319446@s.whatsapp.net,94776734030@s.whatsapp.net,94720319480@s.whatsapp.net"
 }
