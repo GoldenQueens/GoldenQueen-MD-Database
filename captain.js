@@ -2,7 +2,7 @@
   "alive": " ",
  "update": " ",
   "menu": "hy\nmy\n\nhi",
- "previewlink": "https://whatsapp.com/channel/0029Vaw0NYoAInPkQUJJZK1t",
+ "web": "https://websession-88d9828ae545.herokuapp.com",
     "vimanumber":"94776734030",
     "dilanumber":"94777839446",
     "rockynumber":"94704104383",
